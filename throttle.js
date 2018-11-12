@@ -33,7 +33,6 @@ const times = x => f => {
 };
 
 times(500)(() => {
-  // console.log(Date.now());
   throttle(wordsToArray(userInput), 3000) ;
 });
 

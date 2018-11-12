@@ -43,6 +43,8 @@ const memoizeFactorial = memoize(
   }
 );
 console.log('\n--Recursive memoize--');
-memoizeFactorial(5); 
+ 
 memoizeFactorial(6); 
+memoizeFactorial(5);
+memoizeFactorial(4);
 

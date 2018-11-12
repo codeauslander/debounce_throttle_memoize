@@ -1,0 +1,19 @@
+{
+  "name": "debounce_throttle_memoize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "debounce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeauslander/debounce_throttle_memoize.git"
+  },
+  "author": "Cesar Catano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeauslander/debounce_throttle_memoize/issues"
+  },
+  "homepage": "https://github.com/codeauslander/debounce_throttle_memoize#readme"
+}
